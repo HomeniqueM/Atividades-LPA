@@ -54,7 +54,7 @@ Obs: os nodos devem sempre ser apresentados em ordem crescente e se há caminho 
 |      i j          | a,b,c,                    |  
 |      j h          | d,                        |  
 |      6 4          | e,f,                      |  
-|      a b          |                           |  
+|      a b          | 3 connected components    |  
 |      b c          |                           |  
 |      c a          |                           |  
 |      e f          |                           |  
