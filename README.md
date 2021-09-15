@@ -19,7 +19,7 @@
 Trabalhado desenvolvidos para a disciplina de "Laboratório De Projeto De Algoritmos"  
 
 
-
+<div align="center">
 
 | N° |   Tópico / Atividade                       | Status       |
 |:--:|    :--:                                    |   :--:       |
@@ -39,3 +39,4 @@ Trabalhado desenvolvidos para a disciplina de "Laboratório De Projeto De Algori
 | 14 |  Prova Final (EX03)	                    |              |
 | 15 |  Prova de Reavaliação (EX04)               |              |
   
+</div>

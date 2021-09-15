@@ -11,6 +11,8 @@ A entrada comeca com um inteiro **N** (0 < N <= 10), o número de casos de teste
 ## Saída
 Para cada querie **R**, imprima "Yes" (sem aspas) se **R** for uma subsequência de **S**, ou "No" (sem aspas), caso contrario.
 
+<div align="center">
+
 | Exemplo de Entrada |	Exemplo de Saída |
 |       :--:         |      :--:         |
 |1                   |    Yes            |
@@ -19,3 +21,4 @@ Para cada querie **R**, imprima "Yes" (sem aspas) se **R** for uma subsequência
 |abc                 |                   |
 |abbc                |                   |   
 
+</div>

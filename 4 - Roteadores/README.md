@@ -20,6 +20,8 @@ Seguem C linhas, cada uma contendo três inteiros **V** (1 ≤ **V** ≤ **R**),
 
 Seu programa deve imprimir um único valor inteiro que representa o custo total que a empresa gastará com cabos após as modificações.
 
+<div align="center">
+
 | Exemplo de Entrada |	Exemplo de Saída|
 |        :--:        |     :--:         |
 |   7 12             |        48        |
@@ -36,7 +38,7 @@ Seu programa deve imprimir um único valor inteiro que representa o custo total 
 |   5 7 15           |                  |
 |   6 7 5            |                  |
 
-
+</div>
 
 
 
