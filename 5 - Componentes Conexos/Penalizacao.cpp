@@ -5,14 +5,7 @@
 
 using namespace std;
 
-/**
- * Professor: Wladmir Cardoso Brandão 
- * Nome: Homenique Vieira Martins
- *  
- * 
- * total do custo de todas as operações (0)(V*logv)
- * 
- *  */
+
 class Graph
 {
     int numVertices;
