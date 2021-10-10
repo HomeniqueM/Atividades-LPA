@@ -1,14 +1,11 @@
 # Bolhas e Baldes
-
-
-
-
-
+<div align="center">
   <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1088" target="_blank"><img src="https://img.shields.io/badge/URI%20Online%20Judge-1088-%230071C5
- svg?&style=for-the-badge&logoColor=white" /></a>
+ svg?style=for-the-badge&logo=appveyorColor=white"/></a>
 
-<br>
+</div>
 
+## Descrição
 Andrea, Carlos e Marcelo são muito amigos e passam todos os finais de semana à beira da piscina. Enquanto Andrea se bronzeia ao sol, os dois ficam jogando Bolhas. Andrea, uma cientista da computação muito esperta, já disse a eles que não entende por que passam tanto tempo jogando um jogo tão primário.
 
 Usando o computador portátil dela, os dois geram um inteiro aleatório N e uma seqüência de inteiros, também aleatória, que é uma permutação de 1, 2, . . . ,N.
