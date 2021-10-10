@@ -1,7 +1,8 @@
 # Bolhas e Baldes
 <div align="center">
-  <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1088" target="_blank"><img src="https://img.shields.io/badge/URI%20Online%20Judge-1088-%230071C5
- svg?style=for-the-badge&logo=appveyorColor=white"/></a>
+   <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1088" target="_blank">
+ <img src="https://img.shields.io/badge/URI%20Online%20Judge-1088-%230071C5?style=for-the-badge&logo=appveyorColor=white"/>
+  </a>
 
 </div>
 
