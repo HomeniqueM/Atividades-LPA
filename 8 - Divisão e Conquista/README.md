@@ -1,6 +1,13 @@
 # Bolhas e Baldes
 
-    URI Online Judge | 1088
+
+
+
+
+  <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1088" target="_blank"><img src="https://img.shields.io/badge/URI%20Online%20Judge-1088-%230071C5
+ svg?&style=for-the-badge&logoColor=white" /></a>
+
+<br>
 
 Andrea, Carlos e Marcelo são muito amigos e passam todos os finais de semana à beira da piscina. Enquanto Andrea se bronzeia ao sol, os dois ficam jogando Bolhas. Andrea, uma cientista da computação muito esperta, já disse a eles que não entende por que passam tanto tempo jogando um jogo tão primário.
 
@@ -20,6 +27,7 @@ O final da entrada é indicado por uma linha que contém apenas o número zero.
 Para cada caso de teste da entrada seu programa deve imprimir uma única linha, com o nome do vencedor, igual a Carlos ou Marcelo., sem espaços em branco.
 
 <div align="center">
+
 |Exemplo de Entrada |	Exemplo de Saída|
 |    :-:            |       :-:         |
 5 1 5 3 4 2         |       Marcelo

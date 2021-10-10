@@ -16,6 +16,7 @@
         "regex": "cpp",
         "valarray": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "algorithm": "cpp"
     }
 }
