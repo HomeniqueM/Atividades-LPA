@@ -28,12 +28,12 @@ Para cada caso de teste da entrada seu programa deve imprimir uma única linha, 
 
 |Exemplo de Entrada |	Exemplo de Saída|
 |    :-:            |       :-:         |
-5 1 5 3 4 2         |       Marcelo
-5 5 1 3 4 2         |       Carlos
-5 1 2 3 4 5         |       Carlos
-6 3 5 2 1 4 6       |       Carlos
-5 5 4 3 2 1         |       Carlos
-6 6 5 4 3 2 1       |       Marcelo
-0                   |
+    5 1 5 3 4 2     |       Marcelo
+    5 5 1 3 4 2     |       Carlos
+    5 1 2 3 4 5     |       Carlos
+    6 3 5 2 1 4 6   |       Carlos
+    5 5 4 3 2 1     |       Carlos
+    6 6 5 4 3 2 1   |       Marcelo
+    0               |
 
 </div>
