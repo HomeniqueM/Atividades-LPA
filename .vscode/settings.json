@@ -17,6 +17,19 @@
         "valarray": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "ratio": "cpp",
+        "source_location": "cpp",
+        "bitset": "cpp",
+        "utility": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "system_error": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "variant": "cpp",
+        "set": "cpp"
     }
 }
