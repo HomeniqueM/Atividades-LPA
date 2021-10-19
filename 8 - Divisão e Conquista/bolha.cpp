@@ -2,8 +2,18 @@
 
 #include <iostream>
 #include <vector>
+#include <bits/stdc++.h>
+
 using namespace std;
 
+
+
+/** 
+ * Nome: Homenique Vieira Martins   
+ * Complexidade do cogido:  O(n*log(n)) 
+ * usando um algoritmo de ordenação que divide o problemas em subquencia( ou seja divisão e consquisa ), podemos calcular o numero de rodadas todas ver que ocorrer 
+ * uma operação de alteração da esquerda para a direita.
+ */ 
 class Bolha
 {
 private:
